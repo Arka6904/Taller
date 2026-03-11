@@ -4,4 +4,4 @@ scikit-learn
 streamlit==1.25.0
 joblib
 altair==4.2.2
-pillow
+pillow==11.0.0
